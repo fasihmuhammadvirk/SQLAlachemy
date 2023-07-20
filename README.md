@@ -1,3 +1,7 @@
+## Link to Note
+Sort them using "Create Date 'OldestFirst' " 
+https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards
+
 ## About SQLAlachemy
 SQLAlchemy is a Python library that provides a powerful and flexible Object-Relational Mapping (ORM) tool, allowing developers to interact with relational databases using Python objects and providing an abstraction layer over the database operations.
 
@@ -23,11 +27,13 @@ cmd: cd SQLAlchemy
 now your are in the directory
 then use this comand to create a virtual enviornment
 cmd: virtualenv env
+after creating the virtual enviornment install the depadencies
 
 ### Requirments
 install all requirments for this project which are 
 sqlalchemy, alembic, psycopg2-binary
+to install them use 
+pip install sqlalchemy alembic psycopg2-binary 
+or
+pip3 install sqlalchemy alembic psycopg2-binary
 
-## Link to Note
-Sort them using "Create Date 'OldestFirst' " 
-https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards
