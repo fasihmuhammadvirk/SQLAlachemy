@@ -9,5 +9,5 @@ Query the database using python and sqlalchemy
 Creating Different relationship using the models and migrating them into database and query it
 
 ## Link to Note
-Sort them using "Create Date 'OldestFirst'" 
+Sort them using "Create Date 'OldestFirst' " 
 https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards
