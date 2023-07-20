@@ -21,7 +21,7 @@ After opening the directory <br>
 Do the below steps <br>
 
 ### 2. Create a Virtual Environment
-##### 1. Navigate to your directory (if you save this on desktop) SQLAlchemy using these command<br>
+###### 1. Navigate to your directory (if you save this on desktop) SQLAlchemy using these command<br>
     cd Desktop
     cd SQLAlchemy
 2. Now your are in the directory, then use this comand to create a virtual enviornment<br>
