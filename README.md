@@ -7,3 +7,7 @@ How to connect your database with sqlalchemy
 Creating Models and Migrating them into database tables
 Query the database using python and sqlalchemy
 Creating Different relationship using the models and migrating them into database and query it
+
+## Link to Notes
+
+https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards
