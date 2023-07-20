@@ -21,19 +21,22 @@ After opening the directory <br>
 Do the below steps <br>
 
 ### 2. Create a Virtual Environment
-navigate to your directory (if you save this on desktop) SQLAlchemy using these command<br>
-cmd: cd Desktop<br>
-cmd: cd SQLAlchemy<br>
-now your are in the directory<br>
-then use this comand to create a virtual enviornment<br>
-cmd: virtualenv env<br>
-after creating the virtual enviornment install the depadencies<br>
+1. Navigate to your directory (if you save this on desktop) SQLAlchemy using these command<br>
+  cmd: cd Desktop<br>
+  cmd: cd SQLAlchemy<br>
+2. Now your are in the directory, then use this comand to create a virtual enviornment<br>
+  cmd: virtualenv env<br>
+3. Activiate the virtual enviornment
+  cmd: source env/bin/activate
+4. To deactivate the enviornment use this command
+  cmd: source env/bin/deactivate 
 
-### 3. Install Requirments
-Install all requirments for this project which are <br>
-sqlalchemy, alembic, psycopg2-binary<br>
-To install them use <br>
-pip install sqlalchemy alembic psycopg2-binary <br>
-or<br>
-pip3 install sqlalchemy alembic psycopg2-binary<br>
+### 3. Install Dependencies
+1. Install all requirments for this project after you have activated your virtual enviornment<br>
+2. Dependencies that you need to install are <br>
+3. sqlalchemy, alembic, psycopg2-binary<br>
+4. To install them use <br>
+  cmd: pip install sqlalchemy alembic psycopg2-binary <br>
+                          or<br>
+  cmd: pip3 install sqlalchemy alembic psycopg2-binary<br>
 
