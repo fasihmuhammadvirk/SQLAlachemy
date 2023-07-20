@@ -1,6 +1,6 @@
-## Link to Note
+## Notes
 Sort them using "Create Date 'OldestFirst' " 
-https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards
+<a href = "https://notebook.zoho.com/app/index.html#/shared/notebooks/r5oy24127762f107a46b281cc48001b06e11b/notecards">Link to Notes></a>
 
 ## About SQLAlachemy
 SQLAlchemy is a Python library that provides a powerful and flexible Object-Relational Mapping (ORM) tool, allowing developers to interact with relational databases using Python objects and providing an abstraction layer over the database operations.
